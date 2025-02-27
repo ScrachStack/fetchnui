@@ -1,0 +1,25 @@
+{
+  "name": "fetchnui",
+  "version": "1.0.0",
+  "description": "NPM Model to send a post request to the backend for NUI Callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScrachStack/fetchnui.git"
+  },
+  "keywords": [
+    "fivem",
+    "cfx",
+    "fetchnui",
+    "postrequest"
+  ],
+  "author": "ScrachStack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ScrachStack/fetchnui/issues"
+  },
+  "homepage": "https://github.com/ScrachStack/fetchnui#readme"
+}
