@@ -1,6 +1,6 @@
 {
   "name": "fetchnui",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "NPM Model to send a post request to the backend for NUI Callbacks",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,9 @@
     "fetchnui",
     "postrequest"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "ScrachStack",
   "license": "MIT",
   "bugs": {
