@@ -44,9 +44,10 @@ Import the Post function into your project.
 Use Post to trigger events and pass data between your frontend and NUI.
 ```js
 import Post from 'fetchnui';
-
 function playerJoined() {
     const playerData = { playerId: 123, playerName: 'JohnDoe' };
     Post('playerEntered', playerData);
 }
 ```
+Download:
+https://www.npmjs.com/package/fetchnui?activeTab=readme
