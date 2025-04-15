@@ -1,5 +1,8 @@
 # Fetch NUI Module
 
+[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/tgrU8wgeHx) 
+
+
 ## Overview
 This module allows you to easily interact with the NUI (Native User Interface) in your frontend applications. With the `Post` function, you can send messages to the NUI with minimal setup.
 
